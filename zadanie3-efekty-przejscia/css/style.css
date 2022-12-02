@@ -1,0 +1,33 @@
+.pudelko {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 15px;
+    transition: all 2s ease-in;
+    cursor: pointer;
+}
+
+.jeden {
+    background-color: red;
+}
+
+.jeden:hover {
+    width: 300px;
+}
+
+.dwa {
+    background-color: green;
+}
+
+.dwa:hover{
+    height: 300px;
+}
+
+.trzy {
+    background-color: blue;
+}
+
+.trzy:hover {
+    height: 300px;
+    width: 300px;
+}
